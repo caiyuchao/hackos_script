@@ -1,0 +1,2 @@
+# hackos_script
+用来记录一些常用的shell脚本提高工作效率
